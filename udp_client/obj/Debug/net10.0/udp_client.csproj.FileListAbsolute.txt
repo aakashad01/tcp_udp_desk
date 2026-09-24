@@ -1,0 +1,14 @@
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.AssemblyInfoInputs.cache
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.AssemblyInfo.cs
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.csproj.CoreCompileInputs.cache
+/home/ubuntu/Documents/tcp_udp/udp_client/bin/Debug/net10.0/udp_client
+/home/ubuntu/Documents/tcp_udp/udp_client/bin/Debug/net10.0/udp_client.deps.json
+/home/ubuntu/Documents/tcp_udp/udp_client/bin/Debug/net10.0/udp_client.runtimeconfig.json
+/home/ubuntu/Documents/tcp_udp/udp_client/bin/Debug/net10.0/udp_client.dll
+/home/ubuntu/Documents/tcp_udp/udp_client/bin/Debug/net10.0/udp_client.pdb
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.dll
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/refint/udp_client.dll
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.pdb
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/udp_client.genruntimeconfig.cache
+/home/ubuntu/Documents/tcp_udp/udp_client/obj/Debug/net10.0/ref/udp_client.dll

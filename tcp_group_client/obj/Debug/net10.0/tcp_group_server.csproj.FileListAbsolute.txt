@@ -1,0 +1,14 @@
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/bin/Debug/net10.0/tcp_group_server
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/bin/Debug/net10.0/tcp_group_server.deps.json
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/bin/Debug/net10.0/tcp_group_server.runtimeconfig.json
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/bin/Debug/net10.0/tcp_group_server.dll
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/bin/Debug/net10.0/tcp_group_server.pdb
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.AssemblyInfoInputs.cache
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.AssemblyInfo.cs
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.csproj.CoreCompileInputs.cache
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.dll
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/refint/tcp_group_server.dll
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.pdb
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/tcp_group_server.genruntimeconfig.cache
+/home/ubuntu/Documents/tcp_udp/tcp_group_client/obj/Debug/net10.0/ref/tcp_group_server.dll
