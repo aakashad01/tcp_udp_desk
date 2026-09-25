@@ -42,6 +42,7 @@ public class group_client{
             Console.WriteLine();
             Console.WriteLine(recv_msg);
             Console.WriteLine();
+            
         }
     }
 }

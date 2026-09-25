@@ -1,0 +1,6 @@
+tcp_client/bin
+tcp_client/obj
+tcp_group_client/bin
+tcp_group_client/obj
+udp_client/bin
+udp_client/obj
